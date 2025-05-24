@@ -1,7 +1,5 @@
 # AI Tutor Agent
 
-![AI Tutor System Diagram](https://i.imgur.com/JfQv3aE.png) *Example architecture diagram*
-
 A multi-agent tutoring system with backend powered by Google Gemini (via Google ADK) and a modern web frontend.
 
 ## Features
