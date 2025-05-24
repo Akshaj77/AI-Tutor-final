@@ -77,6 +77,7 @@ Import frontend folder
 Set build command: None (static site)
 
 Deploy!
+Check final tool here : https://ai-tutor-frontend-gules.vercel.app/
 
 ##Screenshots 
 <img width="866" alt="image" src="https://github.com/user-attachments/assets/1e685da0-c403-408c-a0e1-cc95de504592" />
