@@ -34,7 +34,7 @@ pip install -r requirements.txt
 uvicorn main:app --reload
 
 ```
-##Frontend Setup
+## Frontend
 cd ../frontend
 
 # 1. Configure API endpoint (edit index.html)
@@ -55,7 +55,7 @@ AI-Tutor-final/
 │   └── script.js             # API interaction
 └── README.md
 
-##API Documentation
+## API Documentation
 Interactive docs available at:
 
 Local: http://localhost:8080/docs
@@ -71,7 +71,7 @@ Set GOOGLE_API_KEY in environment variables
 
 Deploy!
 
-##Frontend(Vercel)
+## Frontend(Vercel)
 Import frontend folder
 
 Set build command: None (static site)
@@ -79,5 +79,5 @@ Set build command: None (static site)
 Deploy!
 Check final tool here : https://ai-tutor-frontend-gules.vercel.app/
 
-##Screenshots 
+## Screenshots 
 <img width="866" alt="image" src="https://github.com/user-attachments/assets/1e685da0-c403-408c-a0e1-cc95de504592" />
